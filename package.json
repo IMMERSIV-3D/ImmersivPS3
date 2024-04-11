@@ -1,7 +1,7 @@
 {
     "name": "immersiv-pixel-streaming-ue-5.3",
-    "version": "1.0.1",
-    "description": "Frontend library for Unreal Engine 5.3 Pixel Streaming",
+    "version": "1.0.2",
+    "description": "Frontend library for Unreal Engine 5.3 Pixel Streaming 1.0.1",
     "main": "dist/lib-pixelstreamingfrontend.js",
     "module": "dist/lib-pixelstreamingfrontend.esm.js",
     "types": "types/pixelstreamingfrontend.d.ts",
